@@ -1,0 +1,13 @@
+.click.me,
+.click.me.not{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.click.me{
+    background-color: black;
+    color: white;
+}
+.click.me.not{
+    background-color: yellow;
+    color: black;
+}
