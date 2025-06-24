@@ -22,11 +22,13 @@ body {
   padding-bottom: 16px;
   padding-left: 8px;
   padding-right: 8px;
+  margin-bottom: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
   padding:8px;
+  text-align: center;
 }
 
 button {
